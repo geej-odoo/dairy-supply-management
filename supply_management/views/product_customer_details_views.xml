@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<odoo>
+
+<record id="product_customer_details_action" model="ir.actions.act_window">
+        <field name="name">Product Customer Deatils</field>
+        <field name="res_model">product.customer.details</field>
+        <field name="view_mode">tree,form</field>
+
+    </record>
+
+
+</odoo>

@@ -1,0 +1,5 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+supply_management.access_product,access_product,supply_management.model_product,base.group_user,1,0,0,0
+supply_management.access_product_tag,access_product_tag,supply_management.model_product_tag,base.group_user,1,0,0,0
+supply_management.access_product_details,access_product_details,supply_management.model_product_details,base.group_user,1,0,0,0
+supply_management.access_product_customer_details,access_product_customer_details,supply_management.model_product_customer_details,base.group_user,1,0,0,0
